@@ -4,8 +4,8 @@ Considered that the file will contain one or more largest word(s). Hence the out
 
 Positive Test Cases:
 --------------------
-**Test_Case_1: File name exists with a valid name and one largest word (Happy path scenario)  
-**Test_Case_2: File name exists with a valid name and more than one largest words  
+**Test_Case_1**: File name exists with a valid name and one largest word (Happy path scenario)  
+**Test_Case_2**: File name exists with a valid name and more than one largest words  
 
 Negative Test Cases:
 ---------------------
