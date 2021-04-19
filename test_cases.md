@@ -20,4 +20,4 @@ Negative Test Cases:
 
 Unit Tests run results:
 ----------------------
-![Unit Test Results](unit_test_results.png =500x250)
+![Unit Test Results](unit_test_results.png)
