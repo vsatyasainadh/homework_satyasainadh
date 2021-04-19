@@ -17,3 +17,7 @@ Negative Test Cases:
 **Test_Case_6**: File contains binary data or data in an unreadable format  
 **Test_Case_7**: Valid file path, file name and valid data but with invalid file permissions  
 **Test_Case_8**: Testing the file with absolute/relative file path  
+
+Unit Tests run results:
+----------------------
+![Unit Test Results](unit_test_results.PNG)
